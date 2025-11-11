@@ -1,6 +1,6 @@
 # FPS - Rafael Sánchez Fernández
 
-![FPS Preview](Assets/preview.png)
+![FPS Preview](Assets/Screenshots/preview.png)
 
 **FPS - Rafael Sánchez Fernández** es un juego de disparos en primera persona con un campo de pruebas completo para probar mecánicas, armas y enemigos. Está desarrollado en Unity y sirve como proyecto de demostración para mostrar habilidades en programación de juegos, IA, físicas y sistemas de jugador.
 
